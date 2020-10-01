@@ -2,7 +2,7 @@ package justinethier;
 
 import java.lang.StringBuilder;
 
-/** 
+/** The difference of height should be -1, 0 or 1.
  * Implementation of an AVL Tree, along with code to test insertions on the tree.
  * 
  *  Based on code written by Mark Allen Weiss in his book 
